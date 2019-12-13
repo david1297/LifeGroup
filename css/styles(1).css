@@ -2532,7 +2532,7 @@ body .side-menu {
       body .side-menu .nav-header .navbar-side-btn {
         top: 0;
         margin-top: 0;
-        background-color: #01ccf4;
+        background-color: rgba(21, 1, 73, 0.8);
         width: 100%; } }
     body .side-menu .nav-header .navbar-side-btn span {
       display: block;
@@ -2540,7 +2540,7 @@ body .side-menu {
       max-width: 34px;
       height: 4px;
       margin: 7px auto;
-      background-color: #01ccf4; }
+      background-color: rgba(21, 1, 73, 0.8); }
       @media (max-width: 767px) {
         body .side-menu .nav-header .navbar-side-btn span {
           margin: 7px;
@@ -2552,7 +2552,7 @@ body .side-menu {
     top: 0;
     left: -227px;
     transition: all ease-out 0.5s;
-    background-color: rgba(21,1,73,0.8); }
+    background-color: rgba(21,1,73,1); }
     body .side-menu .nav-collapse .navbar-brand {
       float: none;
       position: relative;
