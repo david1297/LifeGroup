@@ -2522,7 +2522,7 @@ body .side-menu {
     height: 50px;
     z-index: 2;
     border: none;
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(21,1,73,1);
     border: none;
     top: 50%;
     left: 0;
@@ -2540,7 +2540,7 @@ body .side-menu {
       max-width: 34px;
       height: 4px;
       margin: 7px auto;
-      background-color: rgba(21, 1, 73, 0.8); }
+      background-color: #01ccf4; }
       @media (max-width: 767px) {
         body .side-menu .nav-header .navbar-side-btn span {
           margin: 7px;
