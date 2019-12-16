@@ -2728,7 +2728,7 @@ body.page-template-home-tpl #infographics-container {
   width: 100%;
   position: relative;
   box-shadow: inset 0 0 60em #000000;
-  background-image: url("../img/bg_14.jpg");
+  background-image: url("../img/Fondos/1.jpg");
   background-attachment: fixed;
   background-size: cover;
   background-position: center top; }
@@ -3010,7 +3010,7 @@ body.page-template-home-tpl #partners-container {
 
 body.page-template-about-tpl {
   box-shadow: inset 0 0 40em #000000;
-  background-image: url("../img/bg_12.jpg");
+  background-image: url("../img/Fondos/3.jpg");
   background-color: #000000;
   background-size: cover;
   background-position: center center;
@@ -3362,7 +3362,7 @@ body.page-template-about-tpl {
           margin: -20px 0 0 -27px;
           top: 0; }
         body.page-template-about-tpl .content-tabs .tab-content #menu3 .items-ano li.active .ano-small::after {
-          font-size: 3.125em;
+          font-size:0;
           color: rgba(0, 0, 0, 0.5);
           content: "";
           font-family: FontAwesome;
@@ -4335,7 +4335,7 @@ body.page-template-history-tpl {
 
 body.search-results, body.search-no-results, body.page-template-news-tpl {
   box-shadow: inset 0 0 40em #000000;
-  background-image: url("../img/bg_big_news.jpg");
+  background-image: url("../img/Fondos/4.jpg");
   background-size: cover;
   background-position: center center; }
   @media (max-width: 767px) {
@@ -4762,7 +4762,7 @@ body.single-documento {
 
 body.page-template-what-we-do-tpl {
   box-shadow: inset 0 0 40em #000000;
-  background-image: url("../img/bg_10.jpg");
+  background-image: url("../img/Fondos/2.jpg");
   background-color: #000000;
   background-size: cover;
   background-position: center center;
@@ -5244,7 +5244,7 @@ body.page-template-what-we-do-tpl {
 
 .page-template-files-tpl {
   box-shadow: inset 0 0 40em #000000;
-  background-image: url("../img/bg_10.jpg");
+  background-image: url("../img/Fondos/2.jpg");
   background-size: cover;
   background-position: center center;
   background-attachment: fixed; }
@@ -5341,7 +5341,7 @@ body.page-template-what-we-do-tpl {
 .site-footer {
   position: relative;
   box-shadow: inset 0 0 40em #000000;
-  background-image: url("../img/bg_8.jpg");
+  background-image: url("../img/Fondos/5.jpg");
   background-size: cover;
   background-position: center center;
   background-position: center bottom; }
