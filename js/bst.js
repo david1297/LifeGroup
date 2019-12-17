@@ -241,7 +241,7 @@
             $the_knob2.knob({
               'displayInput': false,
               'bgColor': 'rgba(0,0,0,0)',
-              'fgColor': '#CC0B3C',
+              'fgColor': '#38b6ff',
               'min': 0,
               'max': 100,
               'width': 110,
